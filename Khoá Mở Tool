@@ -2,7 +2,7 @@
     "keys": {
         "hfhj,fyduglhlkhiljgkfhjbjkkfydjkhftgvhjjftyfy": {"type": "permanent"},
         "1t": {"type": "trial", "expiry": "2025-01-24T23:59:59", "used": false},
-        "2h": {"type": "trial", "expiry": "2025-01-01T12:00:00", "used": false},
+        "dobiet": {"type": "trial", "expiry": "2025-03-07T23:59:59", "used": false},
         "vyhotran": {"type": "trial", "expiry": "2025-02-06T23:59:59", "used": false},
         "vukachan": {"type": "trial", "expiry": "2025-03-02T23:59:59", "used": false},
         "sunny1919": {"type": "trial", "expiry": "2025-01-29T02:00:00", "used": false},
