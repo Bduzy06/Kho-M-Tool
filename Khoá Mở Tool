@@ -7,7 +7,7 @@
         "hoa247": {"type": "trial", "expiry": "2025-07-02T23:59:59", "used": false},
         "sunny1919": {"type": "trial", "expiry": "2025-01-29T02:00:00", "used": false},
         "vuong44": {"type": "trial", "expiry": "2025-05-10T23:59:59", "used": false},
-        "keyspam0873": {"type": "trial", "expiry": "2025-05-25T23:59:59", "used": false},
+        "keyspam0873": {"type": "trial", "expiry": "2025-07-6T23:59:59", "used": false},
         "keyspam385": {"type": "trial", "expiry": "2025-07-03T23:59:59", "used": false}
     }
 }
